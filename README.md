@@ -7,6 +7,10 @@ reports.
 
 Natural Magic - Available on the ATLauncher
 
-ATLauncher - 
+ATLauncher - www.atlauncher.com
+
+WTFGeeks! Youtube - https://www.youtube.com/user/WTFG33ks
+
+
 
 
