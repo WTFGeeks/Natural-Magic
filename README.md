@@ -11,6 +11,6 @@ ATLauncher - www.atlauncher.com
 
 WTFGeeks! Youtube - https://www.youtube.com/user/WTFG33ks
 
-
+Natural Magic bug/issue tracker - https://github.com/WTFGeeks/Natural-Magic/issues
 
 
